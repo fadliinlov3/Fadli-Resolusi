@@ -7,4 +7,4 @@ Berikut adalah resolusi atau rencanaku kedepannya:
 3. Membuat sebuah web portopolio sederhana
 4. Belajar Java Script
 5. Belajar Bootstrap 5
-6. Belajar Tailwind
+6. Lanjut belajar React Js
