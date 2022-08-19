@@ -1,0 +1,8 @@
+Ini adalah pertama kasi aku membuat sebuah file di Github.
+ya.. aku masih dalam tahap belajar.
+
+Berikut adalah resolusi atau rencanaku kedepannya:
+1. Menyelesaikan belajar tentang Github
+2. Belajar tentang SASS
+3. Membuat sebuah web portopolio sederhana
+4. Belajar Java Script
